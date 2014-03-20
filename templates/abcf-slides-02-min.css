@@ -1,0 +1,22 @@
+#galleria-loader{height:1px!important}
+.galleria-container{position:relative;overflow:hidden}
+.galleria-container img{-moz-user-select:none;-webkit-user-select:none;-o-user-select:none}
+.fullscreen{background-color:#333;z-index:200}
+.galleria-stage{overflow:hidden;position:absolute;top:0;right:0;bottom:45px;left:0}
+.galleria-bar{bottom:0;left:0;overflow:hidden;position:absolute;right:0;z-index:3;height:45px}
+.galleria-thumbnails .galleria-image{display:inline-block;background:#FFF;border:1px solid #999;float:left;cursor:pointer;width:45px;height:30px;margin:0 2px 0 0}
+.fullscreen .galleria-thumbnails .galleria-image{background:#333}
+.fullscreen .galleria-thumbnails .active{border:1px solid #FFF}
+.galleria-play,.galleria-fullscreen{position:absolute;background-repeat:no-repeat;background-color:transparent;background-attachment:scroll;cursor:pointer;height:32px;top:9px}
+.galleria-play{left:0;width:36px;background-image:url(play-70-36x120.png);background-position:0 4px}
+.galleria-play.pause{background-position:0 -94px}
+.galleria-fullscreen{left:38px;width:36px;background-image:url(fullscreen-70-36x120.png);background-position:0 3px}
+.galleria-container.fullscreen .galleria-fullscreen{background-position:0 -92px}
+body .galleria-tooltip{background:rgba(255,255,255,.9)}
+.galleria-dots{left:85px;position:absolute;z-index:2;top:15px;right:0;bottom:0;text-align:center;margin-right:auto;margin-left:auto}
+.galleria-dots span{background-attachment:scroll;background-clip:border-box;background-color:#666;background-image:none;background-origin:padding-box;background-position:0 0;background-repeat:repeat;background-size:auto auto;border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-top-left-radius:50%;border-top-right-radius:50%;cursor:pointer;display:inline-block;height:12px;width:12px;margin-left:3px;margin-right:3px}
+.galleria-dots span.active{background-attachment:scroll;background-clip:border-box;background-color:#CCC;background-image:none;background-origin:padding-box;background-position:0 0;background-repeat:repeat;background-size:auto auto}
+.abcffsCntr,.fsGalleria{margin-right:auto;margin-left:auto;position:relative}
+.galleria-thumb-nav-left .disabled,.galleria-thumb-nav-right .disabled,.galleria-thumbnails-container .disabled{cursor:default;opacity:0.2}
+.abcffsClr{clear:both;font-size:1px;border:0;height:0;margin:0;padding:0}
+.abcffsErrMsg { font-family:Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 700; color: #CC0000; }
