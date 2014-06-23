@@ -7,7 +7,7 @@ Tags: fullscreen, full screen, fullscreen gallery, slider, responsive, full scre
 Requires at least: 3.5
 Tested up to: 3.9
 
-Stable tag: 1.0.0
+Stable tag: 1.0.2
 License: GPLv2 or later
 
 Full screen image gallery for WordPress.
@@ -76,7 +76,7 @@ Installation Instructions: [http://abcfolio.com/help/fullscreen-slides-plugin-in
 
 == Changelog ==
 
-= 1.0.1 2014-07-22 =
+= 1.0.2 2014-07-22 =
 
 * Update: Changed a few metabox labels.
 * Update: Tested with the latest version of WordPress.
