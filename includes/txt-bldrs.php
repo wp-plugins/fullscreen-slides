@@ -17,7 +17,6 @@ function abcffs_txtbldr($id, $suffix='') {
         case 3:
             $out = __('Slideshow Options', 'abcffs-td');
             break;
-
         case 10:
             $out = __('Shortcode', 'abcffs-td');
             break;
@@ -25,13 +24,16 @@ function abcffs_txtbldr($id, $suffix='') {
             $out = __('Image Collections plugin is missing. Please install Image Collections Pro.', 'abcffs-td');
             break;
         case 37:
-            $out = __('Exit Fullscreen URL', 'abcffs-td');
+            $out = __('Exit Fullscreen Button - URL', 'abcffs-td');
             break;
         case 38:
             $out = __('What page to open when the Exit Fullscreen button is clicked.');
             break;
         case 39:
             $out = __('Copy this code and paste it into your post, page or text widget content.', 'abcffs-td');
+            break;
+        case 40:
+            $out = __(' Image Collection. Source of images for your gallery.', 'abcffs-td');
             break;
         case 101:
             $out = __('Help', 'abcffs-td');

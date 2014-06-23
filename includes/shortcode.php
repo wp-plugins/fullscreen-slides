@@ -7,7 +7,7 @@ if ( ! defined( 'ABSPATH' ) ) {exit;}
 //Add shortcode
 function abcffs_scodes_add( $args ) {
 
-    $args = shortcode_atts( array( 'id' => '0', 'template' => '', 'pversion' => '120' ), $args );
+    $args = shortcode_atts( array( 'id' => '0', 'template' => '', 'pversion' => '101' ), $args );
     $jsTheme = 'abcffs-' . $args['template'] . '-js';
 
     wp_enqueue_script( 'abcffs-galleria-js' );

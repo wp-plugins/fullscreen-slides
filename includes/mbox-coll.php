@@ -32,7 +32,7 @@ function abcffs_mbox_coll_get_data( $post ) {
         abcffs_msgs_error(36);
         return;
     }
-    echo abcffs_inputbldr_input_cbo('abcffsCollID', '',$cboColls, $collID);
+    echo abcffs_inputbldr_input_cbo('abcffsCollID', '',$cboColls, $collID, 0, 40);
 
     wp_nonce_field( basename( __FILE__ ), 'abcffs_mbox_coll_nc' );
 }

@@ -2,9 +2,10 @@
 Author URI: http://www.abcfolio.com
 Plugin URI: http://abcfolio.com/help/wordpress-plugin-fullscreen-slides/
 Contributors: abcfolio
-Tags: fullscreen, full screen, full-screen, fullscreen gallery, full screen gallery, full-screen gallery, fullscreen slider, full-screen slider, full screen slider, gallery, galleries, slides, slider, responsive, responsive gallery, responsive slider, abcfolio
+Tags: fullscreen, full screen, fullscreen gallery, slider, responsive, full screen gallery, fullscreen slider, full screen slider, nextgen, gallery, slides, responsive gallery
+
 Requires at least: 3.5
-Tested up to: 3.8
+Tested up to: 3.9
 
 Stable tag: 1.0.0
 License: GPLv2 or later
@@ -16,15 +17,29 @@ Full screen image gallery for WordPress.
 
 **Fullscreen Slides** - a beautiful full screen image gallery for WordPress.
 
+= Live Preview =
+
+[http://abcfolio.com/demos/fullscreen-slides/fullscreen-slides-light-demo/](http://abcfolio.com/demos/fullscreen-slides/fullscreen-slides-light-demo/).
+
+**Features**
+
 * Easy to add to any WordPress page or post - just insert a shortcode.
-* Custom image management. Doesn't rely on the Media Gallery.
+* Custom image management.
 * Compatible with all major browsers and mobile devices.
+
+= Custom Image Uploader and Organizer =
+
+Fullscreen Slides uses our **[Image Collections](http://wordpress.org/plugins/image-collections/)** plugin to manage all images.
+You may find the concept of custom image management a familiar one if you ever worked with NextGEN Gallery plugin.
+
+* Doesn't rely on WordPress Media Gallery.
+* Images are organized into collections .
+* Each collection has a name.
+* Each collection has it's own folder.
+* Image dimensions are not limited by WordPress media settings. You can choose any size for thumbnails an full screen images.
 
 Create a fullscreen slider for your site in minutes.
 
-= LIVE PREVIEW =
-
-[http://abcfolio.com/demos/fullscreen-slides/fullscreen-slides-light-demo/](http://abcfolio.com/demos/fullscreen-slides/fullscreen-slides-light-demo/).
 
 = User Guide =
 
@@ -60,6 +75,16 @@ Installation Instructions: [http://abcfolio.com/help/fullscreen-slides-plugin-in
 
 
 == Changelog ==
+
+= 1.0.1 2014-07-22 =
+
+* Update: Changed a few metabox labels.
+* Update: Tested with the latest version of WordPress.
+
+= 1.0.0 2014-05-11 =
+
+* Fix: Fixed typos in readme.txt
+
 
 = 1.0.0 2014-03-19 =
 
