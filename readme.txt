@@ -21,10 +21,10 @@ Full screen image gallery for WordPress.
 
 [http://abcfolio.com/demos/fullscreen-slides/fullscreen-slides-light-demo/](http://abcfolio.com/demos/fullscreen-slides/fullscreen-slides-light-demo/).
 
-**Features**
+= Features =
 
-* Easy to add to any WordPress page or post - just insert a shortcode.
-* Custom image management.
+* Easy to add to any WordPress page - just insert a shortcode.
+* Custom image manager.
 * Compatible with all major browsers and mobile devices.
 
 = Custom Image Uploader and Organizer =
