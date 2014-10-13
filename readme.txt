@@ -5,9 +5,9 @@ Contributors: abcfolio
 Tags: fullscreen, full screen, fullscreen gallery, slider, responsive, full screen gallery, fullscreen slider, full screen slider, nextgen, gallery, slides, responsive gallery
 
 Requires at least: 3.5
-Tested up to: 3.9
+Tested up to: 4.0
 
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 License: GPLv2 or later
 
 Full screen image gallery for WordPress.
@@ -76,21 +76,25 @@ Installation Instructions: [http://abcfolio.com/help/fullscreen-slides-plugin-in
 
 == Changelog ==
 
-= 1.0.3 2014-07-27 =
+= 1.0.4 20141013 =
+
+* Update: Tested compatibility with WordPress 4.0.
+
+= 1.0.3 20140727 =
 
 * Update: Removed a few unused functions.
 
-= 1.0.2 2014-06-22 =
+= 1.0.2 20140622 =
 
 * Update: Changed a few metabox labels.
 * Update: Tested with the latest version of WordPress.
 
-= 1.0.0 2014-05-11 =
+= 1.0.0 20140511 =
 
 * Fix: Fixed typos in readme.txt
 
 
-= 1.0.0 2014-03-19 =
+= 1.0.0 20140319 =
 
 * First official release.
 
