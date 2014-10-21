@@ -24,7 +24,7 @@ Full screen image gallery for WordPress.
 = Features =
 
 * Easy to add to any WordPress page - just insert a shortcode.
-* Custom image manager.
+* Custom image organizer. Easy to manage large galleries.
 * Compatible with all major browsers and mobile devices.
 
 = Custom Image Uploader and Organizer =
@@ -77,20 +77,16 @@ Installation Instructions: [http://abcfolio.com/help/fullscreen-slides-plugin-in
 == Changelog ==
 
 = 1.0.4 20141013 =
-
 * Update: Tested compatibility with WordPress 4.0.
 
 = 1.0.3 20140727 =
-
 * Update: Removed a few unused functions.
 
 = 1.0.2 20140622 =
-
 * Update: Changed a few metabox labels.
 * Update: Tested with the latest version of WordPress.
 
 = 1.0.0 20140511 =
-
 * Fix: Fixed typos in readme.txt
 
 
