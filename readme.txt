@@ -23,7 +23,7 @@ Full screen image gallery for WordPress.
 
 = Features =
 
-* Easy to add to any WordPress page - just insert a shortcode.
+* Easy to add to any post or page - just insert a shortcode.
 * Custom image organizer. Easy to manage large galleries.
 * Compatible with all major browsers and mobile devices.
 
