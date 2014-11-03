@@ -38,8 +38,6 @@ You may find the concept of custom image management a familiar one if you ever w
 * Each collection has it's own folder.
 * Image dimensions are not limited by WordPress media settings. You can choose any size for thumbnails an full screen images.
 
-Create a fullscreen slider for your site in minutes.
-
 
 = User Guide =
 
