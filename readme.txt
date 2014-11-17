@@ -10,7 +10,7 @@ Tested up to: 4.0
 Stable tag: 1.0.4
 License: GPLv2 or later
 
-Full screen image gallery for WordPress.
+Full screen slider for WordPress.
 
 
 == Description ==
@@ -24,7 +24,7 @@ Full screen image gallery for WordPress.
 = Features =
 
 * Easy to add to any post or page - just insert a shortcode.
-* Custom image uploader and organizer. 
+* Custom image uploader and organizer.
 * Compatible with all major browsers and mobile devices.
 
 = Custom Image Uploader and Organizer =
