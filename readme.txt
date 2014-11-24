@@ -15,7 +15,7 @@ Full screen slider for WordPress.
 
 == Description ==
 
-**Fullscreen Slides** - a beautiful full screen image gallery for WordPress.
+**Fullscreen Slides** - full screen image gallery for WordPress.
 
 = Live Preview =
 
