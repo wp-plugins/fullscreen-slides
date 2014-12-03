@@ -25,7 +25,7 @@ Full screen slider for WordPress.
 
 * Easy to add to any post or page - just insert a shortcode.
 * Custom image uploader and organizer.
-* Compatible with all major browsers and mobile devices.
+* Compatible with all major browsers.
 
 = Custom Image Uploader and Organizer =
 
