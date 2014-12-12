@@ -58,7 +58,7 @@ Full documentation at [http://abcfolio.com/help/wordpress-plugin-fullscreen-slid
 * **Thumbnails.** Scrolling, navigation thumbnails.
 * **Lazy load.** JSON data source and lazy load option. Excellent performance even with a large number of images.
 * **Large & small images.**  To improve performance on mobile devices you can start a slideshow with smaller images. [**Live Preview**](http://kfk.abcfolio.com/sfumato/)
-* **Keyboard support.** Slideshow supports keyboard and swipe navigation.
+* **Keyboard support.** Slideshow supports keyboard navigation.
 * **Custom options.** Transition type, transition speed, custom tooltips and other options.
 * **Custom image management.** Premium, fully licensed version of our image uploader and organizer [**Image Collections Pro**](http://abcfolio.com/help/wordpress-plugin-image-collections/) is included.
 * **Priority support**. One-on-one priority support.
