@@ -5,7 +5,7 @@
  * Description: Fullscreen Slideshow for WordPress.
  * Author: abcFolio Quality WordPress Plugins
  * Author URI: http://www.abcfolio.com
- * Version: 1.0.4
+ * Version: 1.0.5
 */
 
 // Exit if accessed directly
@@ -62,7 +62,7 @@ final class ABCFFS_Fullscreen_Slides {
     private function setup_constants() {
 
         // Plugin version $pversion
-        if ( ! defined( 'ABCFFS_VERSION' ) ) { define( 'ABCFFS_VERSION', '1.0.4' ); }
+        if ( ! defined( 'ABCFFS_VERSION' ) ) { define( 'ABCFFS_VERSION', '1.0.5' ); }
         if ( ! defined( 'ABCFFS_ABSPATH' ) ) {  define('ABCFFS_ABSPATH', ABSPATH); }
 
         // Plugin Folder QPath
